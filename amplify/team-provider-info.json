@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mellowmoonfrontend-dev-181813-authRole",
+      "UnauthRoleArn": "arn:aws:iam::825899528470:role/amplify-mellowmoonfrontend-dev-181813-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::825899528470:role/amplify-mellowmoonfrontend-dev-181813-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mellowmoonfrontend-dev-181813-deployment",
+      "UnauthRoleName": "amplify-mellowmoonfrontend-dev-181813-unauthRole",
+      "StackName": "amplify-mellowmoonfrontend-dev-181813",
+      "StackId": "arn:aws:cloudformation:us-east-1:825899528470:stack/amplify-mellowmoonfrontend-dev-181813/cd3289f0-2e31-11ed-bf33-122d2069f0bd",
+      "AmplifyAppId": "dm6mf6b4c9r2b"
+    },
+    "categories": {
+      "auth": {
+        "mellowmoonfrontend4885e89b4885e89b": {}
+      }
+    }
+  }
+}
